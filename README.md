@@ -1,2 +1,2 @@
 # Deep-Learning-in-TomoSAR
-This was my internship focus at Salzburg Universität for my Copernicus master program
+This repository contains work from my internship at Salzburg Universität as part of the Copernicus Master Program. The project focuses on applying deep learning techniques to TomoSAR (Tomographic Synthetic Aperture Radar) data for estimating canopy and ground height. It includes large notebooks for  tomographic SAR neural network (TSNN) and Modified Unet (M-Unet) with data preprocessing, model training, and evaluation using advanced neural network architectures, stored efficiently with Git LFS.
