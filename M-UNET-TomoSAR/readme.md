@@ -48,7 +48,7 @@ The model is evaluated against **traditional spectral estimation methods** (MUSI
 
 ---
 
-## 📊 Results
+## Results
 
 - **CNN/TSNN** achieves lower RMSE/MAE for CHM and DTM compared to MUSIC and CAPON.
 - **Traditional methods** show larger bias, especially at canopy level.
@@ -73,7 +73,7 @@ The model is evaluated against **traditional spectral estimation methods** (MUSI
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 ├── data/ # Input TomoSAR covariance matrices & SAR images
 ├── TM/ # MUSIC and CAPON .mat results
