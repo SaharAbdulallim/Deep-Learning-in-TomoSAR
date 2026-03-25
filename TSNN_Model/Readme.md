@@ -1,4 +1,4 @@
-# 🌲 TSNN: TomoSAR Neural Network for Canopy & Ground Height Estimation
+# TSNN: TomoSAR Neural Network for Canopy & Ground Height Estimation
 
 **Author:** Sahar Mohamed  
 **Internship:** July 2025 – September 2025, EO Analytics, Salzburg University, Austria  
@@ -24,7 +24,7 @@ The TSNN model is designed to predict:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
